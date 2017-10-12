@@ -37,7 +37,7 @@ P.S. для версии ubuntu/trusty64 нету более новой верс
 
 ## Contributors
 
-* Монастырёв Виталий [@MrSandmanRUS]
-* Журавлёва Александра [@sashatoday]
-* Ткаченко Серафим [@serafim-tkachenko]
-* Мишин Сергей [@qezz]
+* Монастырёв Виталий [@MrSandmanRUS](https://github.com/MrSandmanRUS)
+* Журавлёва Александра [@sashatoday](https://github.com/sashatoday)
+* Ткаченко Серафим [@serafim-tkachenko](https://github.com/serafim-tkachenko)
+* Мишин Сергей [@qezz](https://github.com/qezz)
