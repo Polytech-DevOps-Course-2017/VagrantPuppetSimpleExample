@@ -34,3 +34,10 @@ P.S. для версии ubuntu/trusty64 нету более новой верс
 `mysql --version` - узнать версию mysql (проверить, что установился)
 
 `apache2 --version`
+
+## Contributors
+
+* Монастырёв Виталий [@MrSandmanRUS](https://github.com/MrSandmanRUS)
+* Журавлёва Александра [@sashatoday](https://github.com/sashatoday)
+* Ткаченко Серафим [@serafim-tkachenko](https://github.com/serafim-tkachenko)
+* Мишин Сергей [@qezz](https://github.com/qezz)
